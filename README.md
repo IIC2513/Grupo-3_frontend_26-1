@@ -1,2 +1,49 @@
-# Grupo-3_frontend_26-1
-Proyecto frontend 26-1
+# E0 :construction:
+
+* :pencil2: **Nombre Grupo:** Grupo-3
+
+
+## Descripción general :thought_balloon:
+
+- ¿De qué se tratará el proyecto?
+- ¿Cuál es el fin o la utilidad del proyecto?
+- ¿Quiénes son los usuarios objetivo de su aplicación?
+
+## Historia de Usuarios :busts_in_silhouette:
+
+1. Como [rol/usuario] quiero [requerimiento] para [objetivo]
+2. ...
+3. ...
+
+
+## Diagrama Entidad-Relación :scroll:
+<!-- Insertamos la imagen ER-Model.png -->
+
+
+## Diseño Web :computer:
+
+<!-- Documento de diseño web -->
+### :art: Documento de diseño
+![Paleta de colores](assets/Design/PrincipalColors.png)
+![Paleta de colores](assets/Design/SecondaryColors.png)
+![Paleta de colores](assets/Design/AlertColors.png)
+![Paleta de colores](assets/Design/Typography.png)
+
+
+<!-- Vistas principales -->
+### :mag: Vistas principales
+![Paleta de colores](assets/Views/ResponsiveDesign1.png)
+![Paleta de colores](assets/Views/ResponsiveDesign2.png)
+![Paleta de colores](assets/Views/ResponsiveDesign3.png)
+
+<!-- Logo -->
+### :art: Logo
+![Logo](assets/Logo.png)
+
+<!-- ejemplo de aplicacion -->
+### :iphone: Ejemplo de aplicación
+> [!NOTE]
+> Los ejemplos de aplicación deben ser componentes o secciones específicas de su aplicación que reflejen sus decisiones de paleta de colores, tipografía, etc, que se encuentran en su documento de diseño.
+
+
+![Ejemplo de aplicación](assets/PatternApplication.png)
