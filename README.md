@@ -79,8 +79,5 @@ Los usuarios objetivo de Nido son personas interesadas en decoración del hogar,
 
 <!-- ejemplo de aplicacion -->
 ### :iphone: Ejemplo de aplicación
-> [!NOTE]
-> Los ejemplos de aplicación deben ser componentes o secciones específicas de su aplicación que reflejen sus decisiones de paleta de colores, tipografía, etc, que se encuentran en su documento de diseño.
 
-
-![Ejemplo de aplicación](assets/PatternApplication.png)
+![Ejemplo de aplicación](assets/Design/Ejemplos.jpg)
