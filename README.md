@@ -49,7 +49,7 @@ Los usuarios objetivo de Nido son personas interesadas en decoración del hogar,
 
 
 ## Diagrama Entidad-Relación :scroll:
-<!-- Insertamos la imagen ER-Model.png -->
+![Diagrama ER](assets/diagrama-ER.jpeg)
 
 
 ## Diseño Web :computer:
